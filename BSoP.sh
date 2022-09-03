@@ -5,3 +5,5 @@ snap install atom --classic &
 sudo snap install jupyter &
 #packeges
 pip install pandas &
+pip install plotly &
+#pip install pandasql &
