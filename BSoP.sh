@@ -1,5 +1,5 @@
 #Text editor with github integration
-snap install atom --classic &
+snap install atom --classic & #run atom --no-sandbox
 
 #python
 #code
