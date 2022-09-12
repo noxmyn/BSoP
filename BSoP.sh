@@ -18,4 +18,7 @@ pip install voila-vuetify &
 
 
 #ML
-#pip install catboost &
+pip install catboost &
+#pip install sklearn &
+pip install shap &
+pip install explainer &
